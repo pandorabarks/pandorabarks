@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @pandorabarks
-- 👀 I’m interested in Computer Sciences and Programming!
-- 🌱 I’m currently learning C / C++
-- 💞️ I’m looking to collaborate on projects focused on solutions and interactive experiences in videogames :3
-- 📫 Reach me on The Platform Formerly Known As Twitter @pandorabarks
+dog / she / her
+puppy rulz!! 
